@@ -1,0 +1,6 @@
+[submodule "blog-server"]
+	path = blog-server
+	url = https://github.com/AungKyawPhyo1142/blog-server
+[submodule "blog-client"]
+	path = blog-client
+	url = https://github.com/AungKyawPhyo1142/client-blog
